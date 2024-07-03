@@ -1,0 +1,86 @@
+[
+  {
+    "index": 0,
+    "path": "/photo/search/edit",
+    "label": "보도/편집 전용",
+    "searchValue": "edit",
+    "isActive": false
+  },
+  {
+    "index": 1,
+    "path": "/photo/search/following",
+    "label": "팔로잉",
+    "searchValue": "following",
+    "isActive": false
+  },
+  {
+    "index": 2,
+    "path": "/photo/search/photoPlus",
+    "label": "Unsplash Photo+",
+    "searchValue": "photo",
+    "isActive": false
+  },
+  {
+    "index": 3,
+    "path": "/photo/search/oneColor",
+    "label": "단색",
+    "searchValue": "one color",
+    "isActive": false
+  },
+  {
+    "index": 4,
+    "path": "/photo/search/3dRender",
+    "label": "3D 렌더링",
+    "searchValue": "3d rendering",
+    "isActive": false
+  },
+  {
+    "index": 5,
+    "path": "/photo/search/nature",
+    "label": "자연",
+    "searchValue": "nature",
+    "isActive": false
+  },
+  {
+    "index": 6,
+    "path": "/photo/search/texture",
+    "label": "텍스처 및 패턴",
+    "searchValue": "texture",
+    "isActive": false
+  },
+  {
+    "index": 7,
+    "path": "/photo/search/interior",
+    "label": "인테리어",
+    "searchValue": "interior",
+    "isActive": false
+  },
+  {
+    "index": 8,
+    "path": "/photo/search/film",
+    "label": "필름",
+    "searchValue": "film",
+    "isActive": false
+  },
+  {
+    "index": 9,
+    "path": "/photo/search/experimental",
+    "label": "실험적인",
+    "searchValue": "experimental",
+    "isActive": false
+  },
+  {
+    "index": 10,
+    "path": "/photo/search/travel",
+    "label": "여행",
+    "searchValue": "travel",
+    "isActive": false
+  },
+  {
+    "index": 11,
+    "path": "/photo/search/sports",
+    "label": "스포츠",
+    "searchValue": "sports",
+    "isActive": false
+  }
+]
