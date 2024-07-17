@@ -4,7 +4,7 @@ import { pageState } from "../atoms/pageState";
 import axios from 'axios';
 
 const API_URL = 'https://api.unsplash.com/search/photos';
-const API_KEY = '3PL3TWhausV5v5jlaXVTj0ROEWJiLLsOdpQrwlqwwfs';
+const API_KEY = '';
 const PER_PAGE = 30;
 
 export const imageData = selector({
